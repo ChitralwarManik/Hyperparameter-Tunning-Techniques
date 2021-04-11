@@ -1,2 +1,1 @@
-# Hyperparameter_Grid_search_CV
-Implementation of Gridsearch_CV Hyperparameter
+# GRIDSearchCV
